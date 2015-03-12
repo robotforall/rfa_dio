@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="dio" pkg="rfa_dio" type="scripts/rfa_dio.py" output="screen"/>
+
+</launch>
